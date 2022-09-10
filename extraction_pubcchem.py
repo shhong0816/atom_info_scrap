@@ -1,3 +1,6 @@
+##tryyy
+
+
 def Erase_num(target,e_num):
     l = []
     for i in target:###get list
